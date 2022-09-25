@@ -3,4 +3,4 @@ Attribution relation detection model, in short "AR model", tags each token in a 
 
 Data extraccted from: https://github.com/networkdynamics/PolNeAR
 Python version: 2.8.x
-libraries requirement and version in 'requirement.txt'
+libraries requirement and version in 'requirements.txt'
